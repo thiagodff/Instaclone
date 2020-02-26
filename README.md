@@ -21,17 +21,20 @@ Instagram Clone
 
 1. Move yourself to the backend folder: `cd backend`
 2. Create and add the MongoDB url connection in `src/index.js` field
-3. Run `yarn dev` to start the server
+3. Run `yarn` to map dependencies
+4. Run `yarn dev` to start the server
 
 ### Getting started with the frontend app
 
 1. Move yourself to the frontend folder: `cd frontend`
-2. Run `yarn start` to start the web application
+2. Run `yarn` to map dependencies
+3. Run `yarn start` to start the web application
 
 ### Getting started with the mobile app
 
 1. Move yourself to the mobile folder: `cd mobile`
-2. Run `react-native run-android` (or `run-ios` if your prefer) to start the mobile app
+2. Run `yarn` to map dependencies
+3. Run `expo start --android` (or `--ios` if your prefer) to start the mobile app
 
 ## License
 
