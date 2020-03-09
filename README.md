@@ -35,6 +35,7 @@ Instagram Clone
 1. Move yourself to the mobile folder: `cd mobile`
 2. Run `yarn` to map dependencies
 3. Run `expo start --android` (or `--ios` if your prefer) to start the mobile app
+4. Run `yarn start` to run the application
 
 ## License
 
